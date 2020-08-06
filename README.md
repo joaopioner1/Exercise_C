@@ -1,2 +1,4 @@
-# algorithm_course
-## *Here I will put tests, exercises, etc about the course that I am taking.*
+# Exercise_C
+## *Here I will put tests, exercises, etc about the programming language C.*
+![linguagem-C](https://user-images.githubusercontent.com/66327190/89482688-cd5db180-d770-11ea-83f9-eb144f478914.png)
+
