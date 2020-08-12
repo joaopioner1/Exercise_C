@@ -6,9 +6,9 @@ int main ()
 
   printf ("Insira a quantidade de L que seu carro faz por km: ");
   scanf ("%lf", &lKm);
-  printf ("Insira a quilometragem incial do automC3vel: ");
+  printf ("Insira a quilometragem incial do automovel: ");
   scanf ("%lf", &kmIncial);
-  printf ("Insira a quilometagem final do automC3vel: ");
+  printf ("Insira a quilometagem final do automovel: ");
   scanf ("%lf", &kmFinal);
   printf ("Insira o valor da gasolina: ");
   scanf ("%lf", &valorGasolina);
@@ -16,7 +16,7 @@ int main ()
   double media = (kmFinal - kmIncial) / lKm;
   double valorPagar = (media * valorGasolina) / 4;
 
-  printf ("Valor a ser pago por cada um C): R$ %.2lf", valorPagar);
+  printf ("Valor a ser pago por cada um C: R$ %.2lf"), valorPagar);
 
   return 0;
 }
